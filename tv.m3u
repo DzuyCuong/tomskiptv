@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/105/logo_256_1655386697.png",Первый канал
+http://31.211.77.158:8000/play/a001/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/115/logo_256_1655391177.png",Россия-1
+http://31.211.77.158:8000/play/a002/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/157/logo_256_1655390359.png",Матч ТВ
+http://31.211.77.158:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10100/logo_256_1655385292.png",НТВ
+http://31.211.77.158:8000/play/a004/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/3/logo_256_1655391199.png",Пятый канал
+http://31.211.77.158:8000/play/a005/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/83/logo_256_1655391215.png",Россия-К
+http://31.211.77.158:8000/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/148/logo_256_1655391326.png",Россия-24
+http://31.211.77.158:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/78/logo_256_1655391637.png",Карусель
+http://31.211.77.158:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/101/logo_256_1655445073.png",ОТР
+http://31.211.77.158:8000/play/a009/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/129/logo_256_1655445000.png",ТВЦ
+http://31.211.77.158:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/113/logo_256_1655445172.png",РЕН ТВ
+http://31.211.77.158:8000/play/a011/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/124/logo_256_1655445048.png",Спас
+http://31.211.77.158:8000/play/a012/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/126/logo_256_1655445109.png",СТС
+http://31.211.77.158:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/67/logo_256_1655445200.png",Домашний
+http://31.211.77.158:8000/play/a014/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/130/logo_256_1655445273.png",ТВ3
+http://31.211.77.158:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/109/logo_256_1655448739.png",Пятница
+http://31.211.77.158:8000/play/a016/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/72/logo_256_1655448761.png",Звезда
+http://31.211.77.158:8000/play/a017/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/88/logo_256_1655448812.png",Мир
+http://31.211.77.158:8000/play/a018/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/136/logo_256_1655448788.png",ТНТ
+http://31.211.77.158:8000/play/a019/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/93/logo_256_1655386660.png",МУЗ ТВ
+http://31.211.77.158:8000/play/a020/index.m3u8
+#EXTINF:-1 tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1528141001_tomskoe-vremya.png",Томское время
+http://31.211.77.158:8000/play/a021/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10149/logo_256_1660810800.png",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 tvg-logo="https://lrt.tv/wp-content/uploads/2017/07/23_Leomax-24.png",Leomax 24
+http://31.211.77.158:8000/play/a138/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/77/logo_256_1655449287.png",Disney
+http://31.211.77.158:8000/play/a043/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10043/logo_256_1655386875.png",360
+http://31.211.77.158:8000/play/a133/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/167/logo_256_1655452105.png",Че
+http://31.211.77.158:8000/play/a067/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10185/logo_256_1658736921.png",Москва 24
+http://188.191.160.238:9099/channel/Moskva_24.ts
+#EXTINF:-1 tvg-logo="https://lrt.tv/wp-content/uploads/2017/07/28_%D0%AE%D0%B2%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D1%87%D0%BA%D0%B0.png",Ювелирочка
+http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/139/logo_256_1658734073.png",БелРос
+http://78.25.155.47:1309/channel/TRO.ts
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/112/logo_256_1658737400.png",РБК
+http://31.211.77.158:8000/play/a129/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/168/logo_256_1655452084.png",ТНТ4
+http://31.211.77.158:8000/play/a072/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/126/logo_256_1655445109.png",СТС Love
+http://31.211.77.158:8000/play/a071/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/146/logo_256_1655449127.png",Ю
+http://31.211.77.158:8000/play/a068/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10167/logo_256_1660892008.png",Матч! Страна
+http://31.211.77.158:8000/play/a085/index.m3u8
+#EXTINF:-1 tvg-logo="https://lrt.tv/wp-content/uploads/2017/07/35_Shopping-Live.png",Shopping Live
+http://origin5.mediacdn.ru/live/shoppinglivedist/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/45/logo_256_1655452126.png",RU TV
+http://31.211.77.158:8000/play/a023/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10172/logo_256_1660891626.png",Восьмой канал
+http://31.211.77.158:8000/play/a182/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10092/logo_256_1658744631.png",Точка ТВ
+http://188.191.160.238:9099/channel/Tochka_TV.ts
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/1/logo_256_1655386719.png",2x2
+http://31.211.77.158:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10074/logo_256_1658736572.png",Калейдоскоп ТВ
+http://31.211.77.158:8000/play/a128/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10704/logo_256_1655387226.png",Звезда+
+http://31.211.77.158:8000/play/a037/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10093/logo_256_1658737031.png",Nano TV
+http://31.211.77.158:8000/play/a199/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/123/logo_256_1658737619.png",Союз
+http://31.211.77.158:8000/play/a180/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10143/logo_256_1655452209.png",IZ
+http://31.211.77.158:8000/play/a167/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.iptv2022.com/static/channel/10140/logo_256_1661855687.png",Мир 24
+http://31.211.77.158:8000/play/a036/index.m3u8
